@@ -74,7 +74,7 @@ cd GenAI_Channel_Modeling
              Fidelity, Efficiency, and Downstream Utility},
   author  = {Beyraghi, Sina and Sadeghian, Masoud and Bin Ismail, Firdous and
              Lozano, Angel and Almasan, Paul and Geraci, Giovanni},
-  journal = {arXiv preprint arXiv:2510.10190},
+  journal = {arXiv},
   year    = {2025}
 }
 ```
